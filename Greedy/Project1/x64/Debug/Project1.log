@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Phân tích\Project1\Project1\Source.cpp(114,17): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1258)
+D:\Phân tích\Project1\Project1\Source.cpp(114,17): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1258)
+  Project1.vcxproj -> D:\Phân tích\Project1\x64\Debug\Project1.exe
